@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Lab 9
 
-You can use the [editor on GitHub](https://github.com/liv-edi/lab9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this lab we worked throught the GitHub Learning Lab 'Create a release based workflow' course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Technologies used for this lab:
+- Chrome
+- GitHub
 
-### Markdown
+The purpose of this lab was to get familiar with GitHub pull requests, releases, branches, and GitHub in general.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In doing this lab I found it fairly easy although I did get stuck on one step that I could not for the life of me figure out.
 
-```markdown
-Syntax highlighted code block
+<img width="621" alt="Screen Shot 2022-06-04 at 9 48 41 PM" src="https://user-images.githubusercontent.com/105889862/172035575-3d80a298-1428-4d55-baac-b9f392b9b5b6.png">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liv-edi/lab9/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
