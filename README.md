@@ -1,5 +1,7 @@
 ## Lab 9
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this lab we worked throught the GitHub Learning Lab 'Create a release based workflow' course.
 
 Technologies used for this lab:
